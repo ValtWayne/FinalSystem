@@ -1,0 +1,17 @@
+C:\Users\colem\Videos\Dbsys\HotelReservation\HotelReservation\bin\Debug\HotelReservation.exe
+C:\Users\colem\Videos\Dbsys\HotelReservation\HotelReservation\bin\Debug\HotelReservation.exe.config
+C:\Users\colem\Videos\Dbsys\HotelReservation\HotelReservation\obj\Debug\HotelReservation.csproj.AssemblyReference.cache
+C:\Users\colem\Videos\Dbsys\HotelReservation\HotelReservation\obj\Debug\HotelReservation.Admin.resources
+C:\Users\colem\Videos\Dbsys\HotelReservation\HotelReservation\obj\Debug\HotelReservation.AdminSide.resources
+C:\Users\colem\Videos\Dbsys\HotelReservation\HotelReservation\obj\Debug\HotelReservation.Booking.resources
+C:\Users\colem\Videos\Dbsys\HotelReservation\HotelReservation\obj\Debug\HotelReservation.Booking2.resources
+C:\Users\colem\Videos\Dbsys\HotelReservation\HotelReservation\obj\Debug\HotelReservation.Form1.resources
+C:\Users\colem\Videos\Dbsys\HotelReservation\HotelReservation\obj\Debug\HotelReservation.Manage.resources
+C:\Users\colem\Videos\Dbsys\HotelReservation\HotelReservation\obj\Debug\HotelReservation.ManageSide.resources
+C:\Users\colem\Videos\Dbsys\HotelReservation\HotelReservation\obj\Debug\HotelReservation.Properties.Resources.resources
+C:\Users\colem\Videos\Dbsys\HotelReservation\HotelReservation\obj\Debug\HotelReservation.Receipt.resources
+C:\Users\colem\Videos\Dbsys\HotelReservation\HotelReservation\obj\Debug\HotelReservation.csproj.GenerateResource.cache
+C:\Users\colem\Videos\Dbsys\HotelReservation\HotelReservation\obj\Debug\HotelReservation.csproj.CoreCompileInputs.cache
+C:\Users\colem\Videos\Dbsys\HotelReservation\HotelReservation\obj\Debug\HotelReservation.exe
+C:\Users\colem\Videos\Dbsys\HotelReservation\HotelReservation\obj\Debug\HotelReservation.pdb
+C:\Users\colem\Videos\Dbsys\HotelReservation\HotelReservation\bin\Debug\HotelReservation.pdb
